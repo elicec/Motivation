@@ -1,6 +1,6 @@
 # Motivation
 
-Motivation is a windows screen saver inspired by https://github.com/soffes/Motivation.Include this Readme...
+Motivation is a windows screen saver inspired by https://github.com/soffes/Motivation       **Include this Readme...**
 
 > …screen with a counter showing your age incrementing in real time… It’s a simple tool, but it helps me think about perspective a bit more, which in turn helps me optimize my time.
 
