@@ -8,6 +8,8 @@ You can configure your age once you picked it in Screen Saver Preferences in Sys
 
 <img src="https://s3.amazonaws.com/f.cl.ly/items/411Y341u3d3X1V2C0p45/Screen%20Recording%202015-08-07%20at%2008.15%20AM.gif" width="396" alt="Motivation Screenshot">
 
+> support muti screen
+<img src="https://note.youdao.com/yws/api/personal/file/DE322D0E0FDF4CFD810F75510B1386D8?method=download&shareKey=52c22496f61383ddf6c820f826ed7912">
 
 ## Installation
 
