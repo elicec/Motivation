@@ -13,7 +13,7 @@ You can configure your age once you picked it in Screen Saver Preferences in Sys
 
 ## Installation
 
-todo
+https://github.com/elicec/Motivation/releases/tag/v1.0.1
 
 ## Building
 
